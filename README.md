@@ -24,7 +24,7 @@ Note: The favicon used in this project is from Flaticon and is licensed under th
 
 I hope this helps! Let me know if you have any questions or need further assistance.
 
-Calculator Preview Image
+Calculator Preview Image https://bookish-trout-gwr6q5q7prp3q99-5500.app.github.dev/
 
 Favicon from: <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Freepik - Flaticon</a>
 
