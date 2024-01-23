@@ -28,4 +28,6 @@ Calculator Preview Image https://bookish-trout-gwr6q5q7prp3q99-5500.app.github.d
 
 Favicon from: <a href="https://www.flaticon.com/free-icons/calculator" title="calculator icons">Freepik - Flaticon</a>
 
+![Screenshot 2024-01-23 171715](https://github.com/Theminacious/JS-Calculator/assets/89292263/1243e3a5-3cde-460e-9d81-5457e34bbe3b)
+
 
