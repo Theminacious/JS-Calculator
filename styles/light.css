@@ -82,7 +82,17 @@ input[type="button"]:hover {
 #clear-button {
   color: #fff;
   background-color:  rgb(184, 109, 12);
+  outline: none;
+  transition: ease-out 0.3s;
+  box-shadow: inset 0 0 0 0 rgb(160,32,240);
 }
+
+#clear-button:hover{
+    box-shadow: inset 100px 0 0 0 rgb(160,32,240);
+    color: black;
+    cursor: pointer ;
+}
+
 
 a {
   text-decoration: none;
